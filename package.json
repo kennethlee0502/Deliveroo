@@ -11,8 +11,10 @@
   "dependencies": {
     "@react-navigation/native": "^6.1.2",
     "@react-navigation/native-stack": "^6.9.8",
+    "@sanity/cli": "^3.2.5",
     "expo": "~47.0.12",
     "expo-status-bar": "~1.4.2",
+    "node": "^19.4.0",
     "react": "18.1.0",
     "react-native": "0.70.5",
     "react-native-heroicons": "^3.2.0",
